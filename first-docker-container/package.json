@@ -1,5 +1,5 @@
 {
-  "name": "docker-container",
+  "name": "first-docker-container",
   "version": "1.0.0",
   "main": "app.mjs",
   "scripts": {
